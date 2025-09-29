@@ -1,6 +1,8 @@
 body {
     background: antiquewhite;
     font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+    margin-left: 60px;
 }
 
 h1 {
@@ -8,10 +10,10 @@ h1 {
 }
 
 h2 {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 p {
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
