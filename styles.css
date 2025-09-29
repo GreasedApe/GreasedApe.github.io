@@ -1,0 +1,17 @@
+body {
+    background: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: indigo;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+p {
+    margin-left: 20px;
+}
+
