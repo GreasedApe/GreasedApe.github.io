@@ -17,10 +17,6 @@ p {
     margin-left: 40px;
 }
 
-<<<<<<< HEAD
-.project {
-    margin-left: 30px;
-=======
 .about {
 
 }
@@ -35,5 +31,8 @@ p {
 
 .contact {
     
->>>>>>> db19730b524cc98409a40e160bff271349cff707
+}
+
+.project {
+    margin-left: 30px;
 }
